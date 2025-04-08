@@ -3,7 +3,7 @@ import Calculator from './Components/PppCalculator.tsx';
 import Hero from './Components/Hero.tsx';
 import Navbar from './Components/Navbar.tsx';
 import About from './Components/About.tsx'; 
-import { Routes, Route } from 'react-router-dom'; 
+import { HashRouter, Routes, Route } from 'react-router-dom'; 
 import ContactForm from './Components/ContactForm.tsx';
 import PrivacyPolicy from './Components/PrivacyPolicy.tsx';
 import BlogCard from './Components/BlogCard.tsx';
@@ -13,6 +13,7 @@ function App() {
   return (
     <div className="App rounded-3xl m-5">
       <Navbar />
+      <HashRouter>
       <Routes>
         <Route path="/" element={
           <>
@@ -68,6 +69,8 @@ function App() {
         } />
         <Route path="/blogcard" element={<BlogCard />} />
       </Routes>
+      </HashRouter>
+
     </div>
   );
 }
