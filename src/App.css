@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.frosted-glass {
+  @apply bg-white/20 backdrop-filter backdrop-blur-md;
+}
