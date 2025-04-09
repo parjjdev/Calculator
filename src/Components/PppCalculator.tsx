@@ -419,7 +419,7 @@ const Calculator = () => {
 <div className="min-h-screen bg-gradient-to-r from-[#EDEDED] to-[#D9D9D9] rounded-b-3xl">
   <div className="max-w-5xl mx-auto px-4 py-8 md:py-16 relative">
   <img 
-  src="/Group 2 (1).png" 
+  src={`${process.env.PUBLIC_URL}/Group 2 (1).png`}
   alt="" 
   className="absolute hidden lg:block 
              top-1/2 
@@ -430,7 +430,7 @@ const Calculator = () => {
 />
 
 <img 
-  src="/Group 3.png" 
+  src={`${process.env.PUBLIC_URL}/Group 3.png`}
   alt="" 
   className="absolute hidden lg:block 
              top-1/2 

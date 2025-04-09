@@ -65,10 +65,9 @@ import React from 'react';
 const Hero = () => {
   return (
     <div className="text-center py-8 md:py-12 relative bg-gradient-to-r from-[#EDEDED] to-[#D9D9D9]">
-    <img className="absolute inset-0 w-full h-full object-cover" src="Worldmap.png" alt="World Map" />
+    <img className="absolute inset-0 w-full  object-cover" src="Worldmap.png" alt="World Map" />
   
     <div className="hidden lg:block absolute inset-0 pointer-events-none w-full h-full">
-      {/* LEFT SVG */}
       <svg
         className="absolute 
                    w-[16vw] xl:w-[20vw] 
