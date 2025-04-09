@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parjjdev/Calculator/static/css/main.1b1d19b7.css",
-    "main.js": "/parjjdev/Calculator/static/js/main.70e95bfd.js",
-    "static/js/453.3e9e741b.chunk.js": "/parjjdev/Calculator/static/js/453.3e9e741b.chunk.js",
-    "index.html": "/parjjdev/Calculator/index.html",
-    "main.1b1d19b7.css.map": "/parjjdev/Calculator/static/css/main.1b1d19b7.css.map",
-    "main.70e95bfd.js.map": "/parjjdev/Calculator/static/js/main.70e95bfd.js.map",
-    "453.3e9e741b.chunk.js.map": "/parjjdev/Calculator/static/js/453.3e9e741b.chunk.js.map"
+    "main.css": "/Calculator/static/css/main.1b1d19b7.css",
+    "main.js": "/Calculator/static/js/main.9c3ec460.js",
+    "static/js/453.3e9e741b.chunk.js": "/Calculator/static/js/453.3e9e741b.chunk.js",
+    "index.html": "/Calculator/index.html",
+    "main.1b1d19b7.css.map": "/Calculator/static/css/main.1b1d19b7.css.map",
+    "main.9c3ec460.js.map": "/Calculator/static/js/main.9c3ec460.js.map",
+    "453.3e9e741b.chunk.js.map": "/Calculator/static/js/453.3e9e741b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b1d19b7.css",
-    "static/js/main.70e95bfd.js"
+    "static/js/main.9c3ec460.js"
   ]
 }
