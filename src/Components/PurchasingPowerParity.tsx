@@ -2,7 +2,7 @@ import React from 'react';
 
 const PurchasingPowerParity = () => {
   return (
-    <div className="max-w-5xl mx-auto p-8 text-left">
+    <div className="max-w-5xl mx-auto pt-8 text-left">
       <h1 className="text-2xl font-semibold font-inter mb-4">What is Purchasing Power Parity (PPP)?</h1>
       <p className="mb-4 text-base text-[#252525]">
         Definition: Purchasing Power Parity is an economic theory that suggests that in the absence of transportation costs and barriers to trade, identical goods should have the same price when expressed in a common currency. This principle helps to assess whether currencies are undervalued or overvalued relative to one another based on the cost of a "basket of goods" in different countries.

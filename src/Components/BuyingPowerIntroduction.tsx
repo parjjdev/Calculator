@@ -2,7 +2,7 @@ import React from 'react';
 
 const BuyingPowerIndroduction = () => {
   return (
-    <div className="max-w-5xl mx-auto p-8 text-left">
+    <div className="max-w-5xl mx-auto pt-8 text-left">
       <h1 className="text-2xl font-semibold font-inter mb-4">What is Buying power calculator?</h1>
       <p className="mb-4 text-base text-[#252525]">
       The Buying Power Calculator is a valuable financial tool designed to help individuals understand their purchasing capacity, whether for a car, home, or other investments. It allows users to assess their financial strength by calculating how much they can afford based on their income, debts, and other financial factors.      </p>
