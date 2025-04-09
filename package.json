@@ -1,5 +1,5 @@
 {
-"homepage": "https://github.com/parjjdev/Calculator",
+  "homepage": "https://parjjdev.github.io/Calculator",
   "name": "calculators",
   "version": "0.1.0",
   "private": true,
@@ -24,8 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
-
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
