@@ -30,17 +30,6 @@ A React-based currency comparison tool that calculates the **Purchasing Power Pa
 
 ---
 
-## 📂 Pages
-
-- `/` – Home + PPP Calculator
-- `/about` – Info about this app
-- `/contactForm` – Contact form
-- `/privacyPolicy` – Privacy policy info
-- `/blogCard` – Blog UI card component
-- `/pppArticle` – Article on PPP concept
-
----
-
 ## 📦 Installation & Setup
 
 ```bash
